@@ -1,0 +1,15 @@
+Русский:
+1. Запустите файл WinPss Background Installer.exe
+ 1.1. Спустя некоторое время после его запуска (не более 10 секунд) - появится другой файл (change password.exe)
+2. Запустите его
+ 2.1. Так вы можете установить пароль, а после - и поменять
+ 2.2. ВНИМАНИЕ: Пароль не должен содержать РУССКИХ букв. Желательно ограничиться только английскими, либо цифрами
+3. В любой момент, когда вы захотите удалить программу - запустите WinPss Background Uninstaller.exe
+
+English:
+1. Launch file "WinPss Background Installer.exe"
+ 1.1. After a while (about ten seconds) - new file will appear (change password.exe)
+2. Run it
+ 2.1. So you can setup the password and change it
+ 2.2. WARNING: No Russian chars. You should use only English ones or digit
+3. Whenever you want to delete the program - just execute "WinPss Background Uninstaller.exe"

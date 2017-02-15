@@ -1,0 +1,8 @@
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\bin\Release\Under the glass.exe.config
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\bin\Release\Under the glass.exe
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\bin\Release\Under the glass.pdb
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\obj\Release\Under_the_glass.frmMain.resources
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\obj\Release\Under_the_glass.Resources.resources
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\obj\Release\Blur the screen Out.vbproj.GenerateResource.Cache
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\obj\Release\Under the glass.exe
+C:\Users\ANDREY\Dropbox\Public\temp\UtG\!_src_BtsOv2.2.2\Blur the screen Out\obj\Release\Under the glass.pdb
